@@ -5,4 +5,3 @@ public class TestCase002 {
     // testing for invalid
     //
 }
-
